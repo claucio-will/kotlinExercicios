@@ -1,3 +1,5 @@
+package exercicios
+
 fun main(){
 //   exec()
 //  exec2()

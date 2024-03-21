@@ -24,3 +24,4 @@ fun <T> media(vararg notas: T): Float {
     }
     return soma / notas.size
 }
+
